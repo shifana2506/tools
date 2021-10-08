@@ -131,4 +131,11 @@ export const data=[
         "siteDesc":" Google’s PageSpeed Insights is a tool for discovering how a website performs and where you can enhance the loading speed.",
         "category":"Development"
     }
+      {
+        "siteName":"Marvel",
+        "siteURL":"https://marvelapp.com/",
+        "siteDesc":" Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. Placing the power of design in everyone’s hands.
+         The all-in-one design platform powering creatives.",
+        "category":"Design"
+    }
 ]
